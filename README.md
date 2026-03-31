@@ -59,6 +59,4 @@ The datasets include medical attributes such as glucose level, BMI, age, blood p
 This project was developed as part of the CodeAlpha Machine Learning Internship.
 
 
-Your Name
-
 ---
